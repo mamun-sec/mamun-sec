@@ -1,16 +1,26 @@
-### Hi there 👋
-
-<!--
-**mamun-sec/mamun-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://visitor-badge.glitch.me/badge?page_id=github.com/mamun-sec) ![status](https://img.shields.io/badge/status-up-brightgreen)
+<br>
+<h2>💬 Welcome To My Profile</h2>
+<br>
+<h3>Short Bio: </h3>
+In 2010, my father bought me a computer.  Then, I started learning Windows internals. In 2020, I started learning cyber security. At the very beginning, I created a red teaming tool- MaroWin. Also, I created my Facebook group <a href="https://www.facebook.com/groups/cybersc">Cyber Society</a> to share my knowledge. It is a big group now. I started learning cyber security, knowing that, skill is more important in this platform. Yet, I'm developing my skill every day and will continue.<br>
+<h3><b>:computer: Programming Languages I Work With: </b></h3>
+<table style="width:100%">
+  <tr>
+    <td>Low Level</td>
+    <td>High Level</td>
+    <td>Web Related</td>
+    <td>Scripting</td>
+  </tr>
+  <tr>
+    <td>x86 Assembly, C, C++</td>
+    <td>Python, Java</td>
+    <td>HTML, CSS, Javascript, PHP</td>
+    <td>Bash, Powershell, Batch</td>
+  </tr>
+</table>
+<br>
+<h3>📚 My Blog</h3>
+I write blog post on my website- <a href="https://intarna.com/blog/">intarna.com/blog</a><br><br>
+<h3>📫 Contact Me on Social Media</h3>
+<a href="https://www.linkedin.com/in/mamun-masak/">Linkedin</a> | <a href="https://www.facebook.com/Mamun.Masak/">Facebook</a> | <a href="mailto:ceo@intarna.com">Email</a>
