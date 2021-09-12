@@ -1,8 +1,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=github.com/mamun-sec) ![status](https://img.shields.io/badge/status-up-brightgreen)
 <br>
 <h2>💬 Welcome To My Profile</h2>
-<br>
-<h3>Short Bio: </h3>
 In 2010, my father bought me a computer.  Then, I started learning Windows internals. In 2020, I started learning cyber security. At the very beginning, I created a red teaming tool- MaroWin. Also, I created my Facebook group <a href="https://www.facebook.com/groups/cybersc">Cyber Society</a> to share my knowledge. It is a big group now. I started learning cyber security, knowing that, skill is more important in this platform. Yet, I'm developing my skill every day and will continue.<br>
 <h3><b>:computer: Programming Languages I Work With: </b></h3>
 <table style="width:100%">
@@ -13,8 +11,8 @@ In 2010, my father bought me a computer.  Then, I started learning Windows inter
     <td>Scripting</td>
   </tr>
   <tr>
-    <td>x86 Assembly, C, C++</td>
-    <td>Python, Java</td>
+    <td>x86 Assembly, C</td>
+    <td>C++, Python, Java</td>
     <td>HTML, CSS, Javascript, PHP</td>
     <td>Bash, Powershell, Batch</td>
   </tr>
