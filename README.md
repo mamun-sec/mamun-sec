@@ -18,6 +18,16 @@ In 2010, my father bought me a computer.  Then, I started learning Windows inter
   </tr>
 </table>
 <br>
+
+<h3>:fountain_pen: My Top Skills: </h3>
+<ul>
+  <li><b>Operating System: </b> Linux, Windows, Android, Mac.</li>
+  <li><b>Malware Analysis: </b> x64dbg, Ghidra</li>
+  <li><b>DFIR: </b> Data recovery and analysis, OSINT, dark web research.</li>
+  <li><b>Tool Development: </b> C, Python, c++.</li>
+</ul>  
+
+<br>
 <h3>📚 My Blog</h3>
 I write blog post on my website- <a href="https://intarna.com/blog/">intarna.com/blog</a><br><br>
 <h3>📫 Contact Me on Social Media</h3>
