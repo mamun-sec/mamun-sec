@@ -19,7 +19,7 @@ In 2010, my father bought me a computer.  Then, I started learning Windows inter
 </table>
 <br>
 
-<h3>:fountain_pen: My Top Skills: </h3>
+<h3>:fountain_pen: Top Skills: </h3>
 <ul>
   <li><b>Operating System: </b> Linux, Windows, Android, Mac.</li>
   <li><b>Malware Analysis: </b> x64dbg, Ghidra</li>
