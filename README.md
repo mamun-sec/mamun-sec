@@ -19,6 +19,8 @@ In 2010, my father bought me a computer.  Then, I started learning Windows inter
   <li><code><b>Job:</b></code>&nbsp;Cyber Defense Engineer at CyDefOps</li>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2021 - Now)<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Role: Software Development - DFIR - Malware Analysis - Threat Hunt
+  <li><code><b>Contract:</b></code>&nbsp;Wazuh SIEM setup and live monitoring at a company</li>
+  <li><code><b>Contract:</b></code>&nbsp;Automating the Threat Intel on a company</li>
   <li><code><b>Contract:</b></code>&nbsp;Secured a company's 200+ computers after malware infection</li>
   <li><code><b>Contract:</b></code>&nbsp;Secured a company's network after ransomware attack</li>
   <li><code><b>Contract:</b></code>&nbsp;Successfully completed a DFIR operation after a company's online accounts got compromised</li>
