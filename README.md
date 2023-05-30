@@ -16,9 +16,13 @@ In 2010, my father bought me a computer.  Then, I started learning Windows inter
 <br>
 <h2><b>Experiences</b></h2>
 <ul>
-  <li><code><b>Job:</b></code>&nbsp;Cyber Defense Engineer at CyDefOps</li>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2021 - Now)<br>
+  <li><code><b>Job:</b></code>&nbsp;Cybersecurity Solutions Architect at <a href="https://www.linkedin.com/company/pipeline-pte-ltd/">Pipeline, Inc.</a></li>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(December 2022 - Now)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Role: Software Development - SOC - Security Policy - DFIR - Malware Analysis - Threat Hunt
+  <li><code><b>Job:</b></code>&nbsp;Cyber Defense Engineer at <a href="https://www.linkedin.com/company/cydefops/">CyDefOps</a></li>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(October 2021 - November 2022)<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Role: Software Development - DFIR - Malware Analysis - Threat Hunt
+  <li><code><b>Contract:</b></code>&nbsp;Forensic Product DeveloperForensic at <a href="https://www.linkedin.com/company/hackthebox/">Hack The Box</a></li>
   <li><code><b>Contract:</b></code>&nbsp;Wazuh SIEM setup and live monitoring at a company</li>
   <li><code><b>Contract:</b></code>&nbsp;Automating the Threat Intel on a company</li>
   <li><code><b>Contract:</b></code>&nbsp;Secured a company's 200+ computers after malware infection</li>
