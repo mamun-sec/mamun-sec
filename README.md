@@ -19,7 +19,6 @@ In 2010, my father bought me a computer.  Then, I started learning Windows inter
   <li><code><b>Contract:</b></code>&nbsp;Secured a company's network after ransomware attack</li>
   <li><code><b>Contract:</b></code>&nbsp;Successfully completed a DFIR operation after a company's online accounts got compromised</li>
 </ul><br>
-<br>
 <h2>Top Skills</h2>
 <ul>
   <li><b>Development: </b> <code>Software Development</code> <code>Automation</code></li>
@@ -28,7 +27,7 @@ In 2010, my father bought me a computer.  Then, I started learning Windows inter
   <li><b>DFIR: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <code>KQL</code> <code>Wordpress</code> <code>Email</code> <code>Memory Forensics</code> <code>Windows</code> <code>Active Directory</code> <code>Malware Analysis</code></li>
   <li><b>OS: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <code>Kali Linux</code> <code>Windows</code> <code>Ubuntu</code> <code>Android</code></li>
   <li><b>Other: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <code>Malware De-obfuscation</code> <code>Dark Web Monitoring</code> <code>Reverse Engineering</code> <code>Threat Hunting</code> <code>Security Assesment</code> <code>OSINT</code>
-</ul>  
+</ul><br>
 <h3><b>Programming Languages I Work With</b></h3>
 <table style="width:100%">
   <tr>
